@@ -16,19 +16,19 @@
 
 ---
 
-## 👋 About me
+## About me
 
 I'm a Management Engineering student at the University of Waterloo, headed toward product management or solutions engineering. I like working between the problem, the data, and the code: figuring out what people need, building the tool, and showing them how it works.
 
-- 📊 Data Analyst and AI Engineer at **Spectrum Health Care**, building agentic workflows on an internal LLM platform
-- 🛠️ Software Developer at **UW Blueprint**
-- 🎯 Long term: Product Management or Solutions Engineering
-- 🚀 Further out, I want to found a company and build it into something worth exiting
-- 📍 Toronto / Markham, Ontario
+- Data Analyst and AI Engineer at **Spectrum Health Care**, building agentic workflows on an internal LLM platform
+- Software Developer at **UW Blueprint**
+- Long term: Product Management or Solutions Engineering
+- Further out, I want to found a company and build it into something worth exiting
+- Based in Toronto / Markham, Ontario
 
 ---
 
-## 🧰 Tech stack
+## Tech stack
 
 **Languages**
 
@@ -78,7 +78,7 @@ I'm a Management Engineering student at the University of Waterloo, headed towar
 
 ---
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
   <tr>
@@ -122,7 +122,7 @@ I'm a Management Engineering student at the University of Waterloo, headed towar
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Role | Where | Focus |
 | --- | --- | --- |
@@ -133,11 +133,11 @@ I'm a Management Engineering student at the University of Waterloo, headed towar
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
-- 🌐 Website: [ishaan-sharma.com](https://ishaan-sharma.com)
-- 💼 LinkedIn: [linkedin.com/in/ishaansharm](https://linkedin.com/in/ishaansharm)
-- 📧 Email: [i53sharm@uwaterloo.ca](mailto:i53sharm@uwaterloo.ca)
-- 🛠️ GitHub: [i53sharm](https://github.com/i53sharm)
+- Website: [ishaan-sharma.com](https://ishaan-sharma.com)
+- LinkedIn: [linkedin.com/in/ishaansharm](https://linkedin.com/in/ishaansharm)
+- Email: [i53sharm@uwaterloo.ca](mailto:i53sharm@uwaterloo.ca)
+- GitHub: [i53sharm](https://github.com/i53sharm)
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=120&section=footer" alt="footer" />
