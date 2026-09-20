@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Ishaan%20Sharma&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Data%20%C2%B7%20AI%20%C2%B7%20Product&descAlignY=58&descSize=20" alt="Ishaan Sharma banner" />
 
 <a href="https://github.com/i53sharm">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Management+Engineering+%40+University+of+Waterloo;Data+Analyst+%2B+AI+Engineer;I+build+products+people+actually+use;Working+toward+building+and+exiting+a+company" alt="Typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=40&lines=Management+Engineering+%40+University+of+Waterloo;Data+Analyst+%2B+AI+Engineer;Product+Management+%2B+Solutions+Engineering;Building+toward+my+own+company" alt="Typing intro" />
 </a>
 
 <br/>
@@ -18,12 +18,12 @@
 
 ## 👋 About me
 
-I'm a Management Engineering student at the University of Waterloo. I like the space between data, software, and product: finding the number that matters, building the tool around it, and shipping it to people who will use it.
+I'm a Management Engineering student at the University of Waterloo, headed toward product management or solutions engineering. I like working between the problem, the data, and the code: figuring out what people need, building the tool, and showing them how it works.
 
 - 📊 Data Analyst and AI Engineer at **Spectrum Health Care**, building agentic workflows on an internal LLM platform
 - 🛠️ Software Developer at **UW Blueprint**
-- ⚡ Co-op at **Hyjoule Energy**
-- 🚀 Long term, I want to found a company and build it into something worth exiting
+- 🎯 Long term: Product Management or Solutions Engineering
+- 🚀 Further out, I want to found a company and build it into something worth exiting
 - 📍 Toronto / Markham, Ontario
 
 ---
@@ -43,8 +43,10 @@ I'm a Management Engineering student at the University of Waterloo. I like the s
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1c3c3c?style=for-the-badge&logo=langchain&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![Mistral](https://img.shields.io/badge/Mistral-fa520f?style=for-the-badge&logo=mistralai&logoColor=white)
 ![vLLM](https://img.shields.io/badge/vLLM-30a2ff?style=for-the-badge)
 ![OpenWebUI](https://img.shields.io/badge/OpenWebUI-111111?style=for-the-badge)
+![Distributed Databases](https://img.shields.io/badge/Distributed%20Databases-4b5563?style=for-the-badge)
 
 **Web and apps**
 
@@ -53,6 +55,26 @@ I'm a Management Engineering student at the University of Waterloo. I like the s
 ![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ecf8e?style=for-the-badge&logo=supabase&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Product and design**
+
+![Figma](https://img.shields.io/badge/Figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052cc?style=for-the-badge&logo=jira&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+**Cloud and infrastructure**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232f3e?style=for-the-badge&logo=amazonwebservices&logoColor=ff9900)
+![Linux](https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=black)
+
+**APIs and integration**
+
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+![Postman](https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-4b5563?style=for-the-badge)
+![OAuth](https://img.shields.io/badge/OAuth-eb5424?style=for-the-badge)
 
 ---
 
@@ -106,7 +128,6 @@ I'm a Management Engineering student at the University of Waterloo. I like the s
 | --- | --- | --- |
 | AI Engineer and Data Analyst | Spectrum Health Care | Agentic workflows on an internal vLLM and OpenWebUI platform, plus analytics work |
 | Software Developer | UW Blueprint | Building software for nonprofits |
-| Co-op | Hyjoule Energy | Current work term |
 | Software Engineer | Hands, Toronto | Jan 2026 to May 2026 |
 | Product Designer and Frontend Developer | HypeDocs, Markham | Sep 2023 to Feb 2024 |
 
